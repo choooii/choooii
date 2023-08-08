@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=choooii&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&width=300&section=header&text=choooii&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
 <!--
 **choooii/choooii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
