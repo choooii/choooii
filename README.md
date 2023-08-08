@@ -12,6 +12,6 @@
 <h3>🎨 What I did 🎨</h3>
 <a href="https://car4036.notion.site/ba6d32215329464f93b7e05523c583dc?pvs=4">REBORN : 식단 관리 서비스</a>
 <br>
-<a href="https://car4036.notion.site/ffbdfdbb729e4b13bb262d3ff482b80e?pvs=4">REBORN : 잘자요 : 불면증 루틴 관리 서비스</a>
+<a href="https://car4036.notion.site/ffbdfdbb729e4b13bb262d3ff482b80e?pvs=4">잘자요 : 불면증 루틴 관리 서비스</a>
 
 </div>
